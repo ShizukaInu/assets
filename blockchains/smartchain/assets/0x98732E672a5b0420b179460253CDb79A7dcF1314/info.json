@@ -1,0 +1,10 @@
+ "name": "Shizuka Inu",
+    "website": "https://shizukainu.com",
+    "description": "ShizukaInu is a meme dog token, we'll create an ecosystem of security token and charity to dogs",
+    "explorer": "https://bscscan.com/token/0x98732e672a5b0420b179460253cdb79a7dcf1314",
+    "type": "BEP20",
+    "symbol": "SHIZUKAINU",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x98732e672a5b0420b179460253cdb79a7dcf1314"
+}
